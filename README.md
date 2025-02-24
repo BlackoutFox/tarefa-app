@@ -11,8 +11,8 @@ A interface conta com um background com animação de cores variadas e movimento
 
 ### 🔧 Execute 
 #### 1. Clone o repositório:
-```git clone https://github.com/seu-usuario/seu-repositorio.git ```  
-```cd seu-repositorio```
+```git clone https://github.com/BlackoutFox/tarefa-app.git ```  
+```cd tarefa-app```
 #### 2. Instale as dependências:
 ```pip install -r requirements.txt```
 #### 3. Execute o aplicativo:
