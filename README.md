@@ -1,4 +1,4 @@
-# Lista de Tarefas </>
+# Lista de Tarefas 🗒️
 
 ### 📌 Sobre o projeto:
 Este é um aplicativo web de lista de tarefas que permite aos usuários adicionar, classificar, filtrar e remover tarefas. Ele utiliza um banco de dados (SQL) para armazenar as tarefas e proporciona uma interface intuitiva para organização das atividades diárias. 
